@@ -34,7 +34,7 @@ todo-list/
 ├── style.css      # Styling and layout
 └── style.js       # Application logic
 ```
-
+---
 
 ## ⚙️ How It Works
 
@@ -44,14 +44,14 @@ todo-list/
 4. Click once on a task to mark it as **completed**.
 5. Double-click a task to **delete** it.
 6. Tasks are automatically saved in **localStorage**.
-
+---
 ## ▶️ How to Run the Project
 
 1. Download or clone the repository
 2. Open the project folder
 3. Open **index.html** in any web browser
 
-
+---
 ## 📸 Screenshot (Optional)
 
 You can add a screenshot of your project here.
@@ -59,7 +59,7 @@ You can add a screenshot of your project here.
 ```
 ![Todo App Screenshot](screenshot.png)
 ```
-
+---
 ## 📚 Learning Purpose
 
 This project helps beginners understand:
@@ -68,7 +68,7 @@ This project helps beginners understand:
 - Event Handling
 - Local Storage
 - Basic Frontend Development
-  
+---  
 ## 👨‍💻 Author
 
 **Dhanalakshmi Nagendran**  
